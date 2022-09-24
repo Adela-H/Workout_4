@@ -74,6 +74,12 @@ a:hover {
   background-color:#77c7c8;
 }
 
+
+.col {
+  text-align: center;
+  font-weight: bold;
+}
+
 .first {
   background-color: red;
 }
