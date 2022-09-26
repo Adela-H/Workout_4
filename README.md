@@ -11,7 +11,8 @@ Pe dispozitivele cu ecrane mici conținutul va ocupa tot spațiul disponibil pe 
 Pe ecranele de la md și până la lg lățimea conținutului să fie de 10 coloane.
 Pe ecranele lg și mai mari lățimea conținutului să fie de 6 coloane.
 Ar fi nevoie ca conținutul să fie poziționat pe centru, din acest motiv vom atribui elementului părinte (cel cu clasa row) încă o clasă de Bootstrap, care de fapt face acleași lucru ca și Flexbox: aliniază elementele copii pe mijloc. Identifică tu în documentația Bootstrap sau în Google cum se numește această clasă și aplic-o.
-Zona de caracteristici.
+
+3. Zona de caracteristici.
 Păstrează un div ca element părinte, pentru care vei defini culoarea de fundal să fie gri.
 Adaugă padding de sus și de jos, în așa fel ca să nu fie elementele interioare lipite de marginea fundalului gri (folosește clasa py-5 care înseamnă padding pe axa y, adică cea verticală).
 Adaugă în interior un container, pentru ca conținutul să nu mai depășească lățimea maximă a acestui container.
