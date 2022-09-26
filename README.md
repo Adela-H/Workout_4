@@ -3,6 +3,7 @@
 1. Include Bootstrap. 
 - Accesează site-ul oficial Bootstrap și găsește pagina cu instrucțiunile de utilizare.
 - Copiază și include fișierele .css și .js în fișierul tău .html
+
 2.Zona de prezentare generală (cea cu textul pe centru) o vom reface, folosindu-ne de clasele Bootstrap. 
 - Șterge css-ul care definește lățime maximă de 600pxși cel care poziționează pe centru acest conținut. Nu vom mai avea nevoie de ele deoarece vom folosi Bootstrap.
 - Adaugă elementului părinte (pentru această secțiune) clasa container pentru ca acest element să aibă o lățime maximă și să fie poziționat pe centru.
